@@ -62,10 +62,10 @@
         <div class="header">
             <img src="photo.jpg" alt="Foto de Juan David Gomez Pico" width="150">
             <h1>Juan David Gomez Pico</h1>
-            <p><strong>Correo electrónico:</strong> perrito1234perrito34@gmail.com</p>
-            <p><strong>Teléfono:</strong> 3135562940</p>
-            <p><strong>Dirección:</strong> Calle123#10-20</p>
-            <p><strong>Fecha de nacimiento:</strong> 23 de noviembre de 2008</p>
+            <p><strong>Correo electrónico:</strong> perro123alabrosterxd@gmail.com</p>
+            <p><strong>Teléfono:</strong> 3193094340</p>
+            <p><strong>Dirección:</strong> Calle17n2w80</p>
+            <p><strong>Fecha de nacimiento:</strong> 27 de noviembre de 2008</p>
             <p><strong>Lugar de nacimiento:</strong> Floridablanca, Santander</p>
             <p><strong>Nacionalidad:</strong> Colombiana</p>
             <p><strong>Estado civil:</strong> Unión libre</p>
